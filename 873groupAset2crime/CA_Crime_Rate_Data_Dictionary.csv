@@ -1,0 +1,121 @@
+Variable,Description
+City,City for which the data is given (Actual city name has been replaced with city number for obfuscation)
+Year,Year for which data is given (Actual year has been obfuscated with code 1 and 2; 2 representing the latest year)
+Robbery_rate,Robbery per 100 thousand of population in a year
+Property_crime_rate,Crime related to property per 100 thousnad of population in a year
+Burglary_rate,Burglary per 100 thousand of population in a year
+Larceny_theft_rate,Larceny theft per 100 thousand of population in a year
+Motor_vehicle_theft_rate,Motor vehicle theft per 100 thousand of population in a year
+Population,Population with respect to city
+Total law_enforcement_employees,Number of law enforcement employees 
+Law_enforcement_Total officers emloyee,Number of law enforcement officers employees 
+Total civilians employee,Number of law enforcement civilian employees 
+Percent; SEX AND AGE - Male,Percent of male with respect to total population
+Percent; SEX AND AGE - Female,Percent of female with respect to total population
+Percent; SEX AND AGE - Under 5 years,Percent of person less then 5 years with respect to total population
+Percent; SEX AND AGE - 5 to 9 years,Percent of person between 5 to 9 years with respect to total population
+Percent; SEX AND AGE - 10 to 14 years,Percent of person between 10 to 14 years with respect to total population
+Percent; SEX AND AGE - 15 to 19 years,Percent of person between 15 to 19 years with respect to total population
+Percent; SEX AND AGE - 20 to 24 years,Percent of person between 20 to 24 years with respect to total population
+Percent; SEX AND AGE - 25 to 34 years,Percent of person between 25 to 34 years with respect to total population
+Percent; SEX AND AGE - 35 to 44 years,Percent of person between 35 to 44 years with respect to total population
+Percent; SEX AND AGE - 45 to 54 years,Percent of person between 45 to 54 years with respect to total population
+Percent; SEX AND AGE - 55 to 59 years,Percent of person between 55 to 59 years with respect to total population
+Percent; SEX AND AGE - 60 to 64 years,Percent of person between 60 to 64 years with respect to total population
+Percent; SEX AND AGE - 65 to 74 years,Percent of person between 65 to 74 years with respect to total population
+Percent; SEX AND AGE - 75 to 84 years,Percent of person between 75 to 84 years with respect to total population
+Percent; SEX AND AGE - 85 years and over,Percent of person above 85 yearswith respect to total population
+Estimate; SEX AND AGE - Median age (years),Median age of a person in years for a given city
+Percent; EMPLOYMENT STATUS - In labor force,Percent of employment in labor force
+"Percent; OCCUPATION - Management, business, science, and arts occupations","Percent of people who are in management, business, science, and arts occupations"
+Percent; OCCUPATION - Service occupations,Percent of people who are in service occupations
+Percent; OCCUPATION - Sales and office occupations,Percent of people who are in sales and office occupations
+"Percent; OCCUPATION - Production, transportation, and material moving occupations","Percent of people who are in Production, transportation, and material moving occupations"
+"Percent; INDUSTRY - Agriculture, forestry, fishing and hunting, and mining","Percent of people who are in Agriculture, forestry, fishing and hunting, and mining occupations"
+Percent; INDUSTRY - Construction,Percent of people employed in construction industry
+Percent; INDUSTRY - Manufacturing,Percent of people employed in manufacturing industry
+Percent; INDUSTRY - Wholesale trade,Percent of people employed in wholesale trade industry
+Percent; INDUSTRY - Retail trade,Percent of people employed in Retail industry
+"Percent; INDUSTRY - Transportation and warehousing, and utilities","Percent of people employed in transportation and warehousing, and utilities industry"
+Percent; INDUSTRY - Information,Percent of people employed in information industry
+"Percent; INDUSTRY - Finance and insurance, and real estate and rental and leasing","Percent of people employed in  finance and insurance, and real estate and rental and leasing industry"
+"Percent; INDUSTRY - Professional, scientific, and management, and administrative and waste management services","Percent of people employed in professional, scientific, and management, and administrative and waste management services "
+"Percent; INDUSTRY - Educational services, and health care and social assistance","Percent of people employed in educational services, and health care and social assistance"
+"Percent; INDUSTRY - Arts, entertainment, and recreation, and accommodation and food services","Percent of people employed in arts, entertainment, and recreation, and accommodation and food services"
+"Percent; INDUSTRY - Other services, except public administration","Percent of people employed in Other services, except public administration"
+Percent; INDUSTRY - Public administration,Percent of people employed in Public administration
+"Percent; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - Less than $10,000",Percent of employed population with income and benefits less then $10000 
+"Percent; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - $10,000 to $14,999","Percent of employed population with income and benefits between  $10,000 to $14,999"
+"Percent; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - $15,000 to $24,999","Percent of employed population with income and benefits between  $15,000 to $24,999"
+"Percent; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - $25,000 to $34,999","Percent of employed population with income and benefits between  $25,000 to $34,999"
+"Percent; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - $35,000 to $49,999","Percent of employed population with income and benefits between  $35,000 to $49,999"
+"Percent; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - $50,000 to $74,999","Percent of employed population with income and benefits between  $50,000 to $74,999"
+"Percent; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - $75,000 to $99,999","Percent of employed population with income and benefits between  $75,000 to $99,999"
+"Percent; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - $100,000 to $149,999","Percent of employed population with income and benefits between  $100,000 to $149,999"
+"Percent; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - $150,000 to $199,999","Percent of employed population with income and benefits between  $150,000 to $199,999"
+"Percent; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - $200,000 or more","Percent of employed population with income and benefits above $200,000 or more"
+Percent; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - With Social Security,Percent of employed population with income and benefits with social security
+Percent; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - With retirement income,Percent of employed population with income and benefits with retirement income
+Estimate; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - Median family income (dollars),Median family income of employed population in dollars
+Estimate; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - Mean family income (dollars),Mean family income of employed population in dollars
+Estimate; INCOME AND BENEFITS (IN 2012 INFLATION-ADJUSTED DOLLARS) - Per capita income (dollars),Per capita income in dollars
+Percent; PERCENTAGE OF FAMILIES AND PEOPLE WHOSE INCOME IN THE PAST 12 MONTHS IS BELOW THE POVERTY LEVEL - All families,Percent of familes and people whose income in the past 12 month is below the poverty line with respect to total population
+Percent of age group 18 to 24 with Less than high school graduate,Percent of age group 18 to 24 with Less than high school graduate with respect to total population of age group18 to 24
+Percent of age group 18 to 24  with High school graduate (includes equivalency),Percent of age group 18 to 24  with High school graduate (includes equivalency) with respect to total population of age group18 to 24
+Percent of age group 18 to 24 with Some college or associate's degree,Percent of age group 18 to 24 with Some college or associate's degree  with respect to total population of age group18 to 24
+Percent of age group 18 to 24 with Bachelor's degree or higher,Percent of age group 18 to 24 with Bachelor's degree or higher  with respect to total population of age group18 to 24
+Percent of age group above 25 yrs with Less than 9th grade,Percent of age group above 25 yrs with Less than 9th grade  with respect to total population above 25 years
+"Percent of age group above 25 yrs with 9th to 12th grade, no diploma","Percent of age group above 25 yrs with 9th to 12th grade, no diploma with respect to total population above 25 years"
+Percent of age group above 25 yrs with High school graduate (includes equivalency),Percent of age group above 25 yrs with High school graduate (includes equivalency) with respect to total population above 25 years
+"Percent of age group above 25 yrs with Some college, no degree","Percent of age group above 25 yrs with Some college, no degree with respect to total population above 25 years"
+Percent of age group above 25 yrs with Associate's degree,Percent of age group above 25 yrs with Associate's degree with respect to total population above 25 years
+Percent of age group above 25 yrs with Bachelor's degree,Percent of age group above 25 yrs with Bachelor's degree with respect to total population above 25 years
+Percent of age group above 25 yrs with Graduate or professional degree,Percent of age group above 25 yrs with Graduate or professional degree with respect to total population above 25 years
+Percent; HOUSING OCCUPANCY - Occupied housing units,Percent of occupied housing unit with respect to total household
+Percent; HOUSING OCCUPANCY - Vacant housing units,Percent of vacant housing unit with respect to total household
+Estimate; HOUSING OCCUPANCY - Rental vacancy rate,Percent of rental vacancy rate with respect to  total rental household
+Percent; UNITS IN STRUCTURE - Mobile home,Percent of mobile home with respect to total household
+"Estimate; UNITS IN STRUCTURE - Boat, RV, van, etc.","Percent of mobile  Boat, RV, van, etc.home with respect to total household"
+Percent; BEDROOMS - 1 bedroom,Percent of 1 bedroom home with respect to total household
+Percent; BEDROOMS - 2 bedrooms,Percent of 2 bedroom home with respect to total household
+Percent; BEDROOMS - 3 bedrooms,Percent of 3 bedroom home with respect to total household
+Percent; BEDROOMS - 4 bedrooms,Percent of 4 bedroom home with respect to total household
+Percent; BEDROOMS - 5 or more bedrooms,Percent of 5 or more bedroom home with respect to total household
+Percent; HOUSING TENURE - Owner-occupied,Percent of owner occupied home with respect to total household
+Percent; HOUSING TENURE - Renter-occupied,Percent of renter occupied home with respect to total household
+Percent; VEHICLES AVAILABLE - No vehicles available,Percent of no vehicles available with respect to total household
+Percent; VEHICLES AVAILABLE - 1 vehicle available,Percent of 1 vehicles available with respect to total household
+Percent; VEHICLES AVAILABLE - 2 vehicles available,Percent of 2 vehicles available with respect to total household
+Percent; VEHICLES AVAILABLE - 3 or more vehicles available,Percent of 3 or more vehicles available with respect to total household
+Percent; GROSS RENT - Less than $200,Percent of household with gross rent less then $200
+Percent; GROSS RENT - $200 to $299,Percent of household with gross rent in between $200 to $299
+Percent; GROSS RENT - $300 to $499,Percent of household with gross rent in between $300 to $499
+Percent; GROSS RENT - $500 to $749,Percent of household with gross rent in between $500 to $749
+Percent; GROSS RENT - $750 to $999,Percent of household with gross rent in between $750 to $999
+"Percent; GROSS RENT - $1,000 to $1,499",Percent of household with gross rent in between $1000 to $1499
+"Percent; GROSS RENT - $1,500 or more",Percent of household with gross rent above $1500
+Now married (except separated); Percent of Population 15 years and over,Percent of population who are married with respect to total population of 15 years and over
+Widowed; Percent of Population 15 years and over,Percent of population who are widowed with respect to total population of 15 years and over
+Divorced; Percent of Population 15 years and over,Percent of population who are divorced with respect to total population of 15 years and over
+Separated; Percent of Population 15 years and over,Percent of population who are separated with respect to total population of 15 years and over
+Never married; Percent of Population 15 years and over,Percent of population who are never married with respect to total population of 15 years and over
+Unemployment rate in Population 16 years and over,Percent of people who are unemployed with respect to total population of 16 years and above
+Percent RACE  - White,Percent of people who are white with respect to total population
+Percent RACE  - Black or African American,Percent of people who are black or African American with respect to total population
+Percent RACE  - American Indian and Alaska Native,Percent of people who are American Indian and Alaska Native with respect to total population
+Percent RACE  - Asian,Percent of people who are Asian with respect to total population
+Percent RACE  - Native Hawaiian and Other Pacific Islander,Percent of people who are Native Hawaiian and Other Pacific Islander with respect to total population
+Percent RACE  - Some other race,Percent of people who are Some other race with respect to total population
+FAMILIES - Average family size,Average family size of city
+Percent Household with children under 18 years,Percent of household with children 18 years with respect  to total household
+Percent of houdsehold with children under 18; AGE OF OWN CHILDREN - Under 6 years only,Percent of household with children under 6 years only with respect  to total household with children under 18 years
+Percent of houdsehold with children under 18; AGE OF OWN CHILDREN - Under 6 years and 6 to 17 years,"Percent of household having both, children under 6 years and children with age of 6 to 17 years with respect  to total household with children  under 18 years"
+Percent of houdsehold with children under 18; AGE OF OWN CHILDREN - 6 to 17 years only,Percent of household with children 6 to 17  years only with respect  to total household with children under 18 years
+Civilian employed population 16 years and over - Government workers,Percent of people working as government workers with respect to total civilian employed population 16 years and over
+Civilian employed population 16 years and over - Private wage and salary workers,Percent of people working as private wage and salary workers  with respect to total civilian employed population 16 years and over
+Civilian employed population 16 years and over - Self-employed workers in own not incorporated business,Percent of people working as self-employed workers in own not incorporated business with respect to total civilian employed population 16 years and over
+Civilian employed population 16 years and over - Unpaid family workers,Percent of people working as unpaid family workers with respect to total civilian employed population 16 years and over
+percentage_ Total: - 1-person household:,Percent of 1 person household with respect to total household
+percentage_ Total: - 2-person household:,Percent of 2 person household with respect to total household
+percentage_ Total: - 3-person household:,Percent of 3 person household with respect to total household
+percentage_ Total: - 4-or-more-person household:,Percent of 4 or more person household with respect to total household
