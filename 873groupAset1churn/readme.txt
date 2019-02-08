@@ -7,3 +7,7 @@ kind of sweetener that will entice them to stay.
 
 Your mission is to help develop this understanding using your allocated
 technique.
+
+
+The two PDFs in the repo are slides accompanying my week 1 and 2 presentations for this course. 
+Please see the Jupyter notebook for dataset analysis. 
